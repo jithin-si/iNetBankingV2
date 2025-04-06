@@ -19,6 +19,7 @@ public class Test1 {
 	        // Print Page Title
 	        System.out.println("Page Title: " + driver.getTitle());
 	        System.out.println("Line");
+	        System.out.println("Line 2");
 
 	        // Close browser
 	        driver.quit();
